@@ -1,16 +1,45 @@
-# flutterabohilalaapp
+# _abu-hilal-app-flutter_
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is demo project for a abu hilal for men's wear .
 
-A few resources to get you started if this is your first Flutter project:
+reference that helped me with the idea of building this demo project:-
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [مجمع ابو هلال التجاري](https://www.facebook.com/AbuHilal.Commercial.Complex/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<hr>
+
+<table> 
+  
+  <tr>
+    <td> 
+      <img width="250" src="https://github.com/HarounTaHa/Abu-Hilal-app-flutter/blob/master/screenshots/Screenshot_1.jpg"> </img>
+    </td>
+    <td>
+      <img width="250" src="https://github.com/HarounTaHa/Abu-Hilal-app-flutter/blob/master/screenshots/Screenshot_2.jpg"> 
+  </img> 
+    </td>
+    <td> 
+        <img width="250" src="https://github.com/HarounTaHa/Abu-Hilal-app-flutter/blob/master/screenshots/Screenshot_3.jpg"> 
+  </img>
+    </td>
+  </tr>
+  
+  <tr>
+     <td>
+       <img width="250" src="https://github.com/HarounTaHa/Abu-Hilal-app-flutter/blob/master/screenshots/Screenshot_4.jpg"> 
+  </img>
+    </td>
+    </tr>
+</table>
+
+## Socials
+
+If you have any questions, you can reach me here:
+
+- Instagram: [@hero.o_8088](https://www.instagram.com/hero.o_8088/)
+- Email: harountaha@outlook.sa
